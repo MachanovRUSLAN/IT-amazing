@@ -1,5 +1,5 @@
 import React from "react";
-import interImg from "../img/inter2.jpg";
+import interImg from "/img/inter2.jpg";
 
 function AboutHead() {
   return (

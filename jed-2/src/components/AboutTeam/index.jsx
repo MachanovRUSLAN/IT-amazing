@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "../img/adam1.png";
+import img1 from "/img/adam1.png";
 import "./team.css";
 
 function Team() {
@@ -7,7 +7,7 @@ function Team() {
     <div className="div bg-[#565656]">
       <div className="bg-[#565656] w-12/12 m-auto text-center">
         <div className="mb-10">
-        <h1 className="m-auto lg:border-b  border-white  p-10 w-5/6">
+          <h1 className="m-auto lg:border-b  border-white  p-10 w-5/6">
             <span className="mt-[5px] absolute ml-[-160px] bg-[#555555]">
               Komandamiz
             </span>
