@@ -1,0 +1,12 @@
+#root
+  > div:nth-child(2)
+  > div
+  > div
+  > div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+  width: 100px;
+  left: 10px !important;
+}
+.swiper-pagination-bullet:hover{
+  box-shadow: 0 0 0 4px black;
+  background-color: antiquewhite;
+}

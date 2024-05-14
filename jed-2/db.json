@@ -1,0 +1,244 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "title": "inter design",
+      "category": "interyer",
+      "postImg": "./src/components/img/salon.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "./src/components/img/postImg1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "landsaf design",
+      "category": "land",
+      "postImg": "./src/components/img/ekster.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "landsaf design",
+      "category": "interyer",
+      "postImg": "./src/components/img/salon.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "landsaf design",
+      "category": "land",
+      "postImg": "./src/components/img/landsaf2.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "landsaf design",
+      "category": "land",
+      "postImg": "./src/components/img/lands3.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "landsaf design",
+      "category": "layihe",
+      "postImg": "./src/components/img/lyihelendir1.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "landsaf design",
+      "category": "layihe",
+      "postImg": "./src/components/img/layihelendir2.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "landsaf design",
+      "category": "layihe",
+      "postImg": "./src/components/img/layihe3.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "landsaf design",
+      "category": "shop",
+      "postImg": "./src/components/img/ticaretob1.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "landsaf design",
+      "category": "interyer",
+      "postImg": "./src/components/img/inter4.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "landsaf design",
+      "category": "layihe",
+      "postImg": "./src/components/img/layihe4.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "landsaf design",
+      "category": "layihe",
+      "postImg": "./src/components/img/layihelendir2.jpg",
+      "imgs": [
+        {
+          "id": 1,
+          "img": "../img/land1.jpg"
+        },
+        {
+          "id": 2,
+          "img": "../img/salon.jpg"
+        },
+        {
+          "id": 3,
+          "img": "../img/shop.jpg"
+        }
+      ]
+    }
+  ]
+}
