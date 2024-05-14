@@ -1,5 +1,5 @@
 import React from "react";
-import RegImg from "../../components/img/salon.jpg";
+import RegImg from "/img/salon.jpg";
 
 function Register() {
   return (

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import img from "../../components/img/ekster.jpg";
+import img from "/img/ekster.jpg";
 import { Link } from "react-router-dom";
 
 function PortPosts() {

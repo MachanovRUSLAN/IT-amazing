@@ -1,5 +1,5 @@
 import React from "react";
-import h_logo from "../img/BLACK LOGO2x2 1.png";
+import h_logo from "/img/BLACK LOGO2x2 1.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";

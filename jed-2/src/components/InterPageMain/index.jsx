@@ -1,5 +1,5 @@
 import React from "react";
-import interImg from "../img/inter4.jpg";
+import interImg from "/img/inter4.jpg";
 
 function InterPageMain() {
   return (
