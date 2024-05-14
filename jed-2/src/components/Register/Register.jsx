@@ -3,7 +3,7 @@ import RegImg from "../../components/img/salon.jpg";
 
 function Register() {
   return (
-    <div className="w-full bg-[#555555] text-center py-2">
+    <div className="w-full bg-[#555555] text-center py-10">
       <h1>
         Layihə sifariş etmək istəyirsiniz? <br />
         Online müraciət göndərin

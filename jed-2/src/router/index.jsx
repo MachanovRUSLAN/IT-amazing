@@ -6,6 +6,7 @@ import ParamsGalery from "../components/ParamsPage";
 import ServisePage from "../components/servisPage";
 import InterPage from "../pages/InterPage";
 import Contact from "../pages/Contact";
+import AboutUs from "../pages/AboutUs";
 
 
 export const router = createBrowserRouter([
@@ -36,6 +37,10 @@ export const router = createBrowserRouter([
       {
         path: "/contact",
         element: <Contact/>,
+      },
+      {
+        path: "/aboutUs",
+        element: <AboutUs/>,
       },
     ],
   },
