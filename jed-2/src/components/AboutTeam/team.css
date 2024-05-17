@@ -1,4 +1,4 @@
-.team-img::after {
+/* .team-img::after {
   content: "";
   width: 100%;
   height: 100%;
@@ -8,4 +8,4 @@
   background: url("../img/adam1.png");
   background-position: center;
   background-size: cover;
-}
+} */

@@ -26,12 +26,3 @@ li {
 p {
   font-size: 18px;
 }
-
-button {
-  position: relative;
-  height: 41px;
-  width: 140px;
-  border: 1px solid #ffffff;
-  color: #ffffff;
-  z-index: 99;
-}

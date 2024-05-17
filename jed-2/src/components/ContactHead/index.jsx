@@ -10,10 +10,12 @@ import {
 function ContactHead() {
   return (
     <div className="bg-[#555555] w-full">
-      <div className="mb-10">
-        <h1 className="m-auto border-b border-white  p-10 w-5/6">
-          <span className="mt-[5px] absolute ml-[35%] bg-[#555555]">Elaqe</span>
-        </h1>{" "}
+      <div className="border-b border-white w-5/6 m-auto">
+        <div className="w-[300px]  m-auto relative h-20">
+          <h1 className="absolute mt-[50px] lg:ml-[120px] ml-[100px] bg-[#555555] text-[36px]">
+            Elaqe
+          </h1>
+        </div>
       </div>
       <div className="w-5/6 m-auto">
         <div className="nav">

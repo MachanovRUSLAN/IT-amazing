@@ -5,11 +5,13 @@ function AboutHead() {
   return (
     <div className="bg-[#565656] text-center w-full p-4">
       <div className="mb-10">
-        <h1 className="m-auto border-b border-white  p-10 w-5/6">
-          <span className="mt-[5px] absolute ml-[-8%] bg-[#555555]">
-            Haqqimizda
-          </span>
-        </h1>{" "}
+        <div className="border-b border-white w-5/6 m-auto">
+          <div className="w-[300px]  m-auto relative h-20">
+            <h1 className="absolute mt-[50px]  bg-[#555555] text-[36px]">
+             Haqqimizda
+            </h1>
+          </div>
+        </div>
       </div>
 
       <div className="w-5/6 m-auto py-10">
@@ -21,7 +23,7 @@ function AboutHead() {
           </div>
           <div className="text-start  border border-none  flex justify-center items-start">
             <div className="p-2">
-              <p>
+              <p className="lg:px-4 px-0">
                 Toğrul İlyas Fəxrioğlu tərəfindən 2014-cü ildə təməli qoyulan
                 Tİ-AMAZİNG şirkətinin əsas məqsədlərindən biri bu sahəyə həm
                 dizayn layihələrində həm də təhsildə yeniliklər gətirməkdir.

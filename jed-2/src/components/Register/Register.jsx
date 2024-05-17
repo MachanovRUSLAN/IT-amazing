@@ -1,10 +1,12 @@
 import React from "react";
 import RegImg from "/img/salon.jpg";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faArrowRightLong } from "@fortawesome/free-solid-svg-icons";
 
 function Register() {
   return (
     <div className="w-full bg-[#555555] text-center py-10">
-      <h1>
+      <h1 className="lg:text-[40px] text-[30px]">
         Layihə sifariş etmək istəyirsiniz? <br />
         Online müraciət göndərin
       </h1>
@@ -45,7 +47,19 @@ function Register() {
         </div>
       </div>
       <div className="button w-5/6 flex justify-end p-2 m-auto">
-        <button className="">salam</button>
+        <div class="border w-[150px] h-[40px] flex items-center justify-center">
+          <a
+            href="#_"
+            class="relative px-6 py-3 flex  items-center justify-center h-full w-full  text-white group"
+          >
+            <span class="absolute inset-0 w-[95%] m-auto h-full transition duration-300 ease-out transform translate-y-3 bg-[#9fb576] group-hover:translate-x-0 group-hover:translate-y-0"></span>
+            <span class="absolute inset-0  h-full border-2 border-white-100"></span>
+            <span class="relative">
+              Daha Etrafli
+              <FontAwesomeIcon icon={faArrowRightLong} />
+            </span>
+          </a>
+        </div>
       </div>
     </div>
   );

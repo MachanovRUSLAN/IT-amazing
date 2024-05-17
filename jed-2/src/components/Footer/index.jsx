@@ -9,7 +9,7 @@ import {
 
 function Footer() {
   return (
-    <div className="bg-gray-500 w-full">
+    <div className="bg-[#9fb576] w-full">
       <div className="w-5/6 m-auto">
         <div className="nav">
           <ul className="lg:flex justify-center flex-wrap block text-center p-10">
@@ -27,22 +27,25 @@ function Footer() {
             <li className="lg:flex px-4">ti_amazing@mail.ru</li>
             <li className="lg:flex px-4">Baku şəh., Cavadxan 14</li>
           </ul>
-          <ul className="lg:flex justify-center flex-wrap block text-center p-10">
-            <li className="px-4 font-medium">
-              <FontAwesomeIcon icon={faInstagram} />
-            </li>
-            <li className=" px-4">
-              <FontAwesomeIcon icon={faWhatsapp} />
-            </li>
-            <li className=" px-4">
-              <FontAwesomeIcon icon={faFacebookF} />
-            </li>
-            <li className="px-4">
-              <FontAwesomeIcon icon={faLinkedinIn} />
-            </li>
-          </ul>
         </div>
       </div>
+      <ul className="text-center flex justify-center  p-10">
+        <li className="px-4 font-medium">
+          <FontAwesomeIcon icon={faInstagram} />
+        </li>
+        <li className="px-4">
+          <FontAwesomeIcon icon={faWhatsapp} />
+        </li>
+        <li className="px-4">
+          <FontAwesomeIcon icon={faFacebookF} />
+        </li>
+        <li className="px-4">
+          <FontAwesomeIcon icon={faLinkedinIn} />
+        </li>
+        <li className="px-4">
+          <FontAwesomeIcon icon={faLinkedinIn} />
+        </li>
+      </ul>
     </div>
   );
 }

@@ -9,7 +9,7 @@ import {
 
 function AbotContact() {
   return (
-    <div className="bg-[#555555] w-full">
+    <div className="bg-[#555555] w-full lg:p-4">
       <div className="w-5/6 m-auto border border-white">
         <div className="nav">
           <ul className="lg:flex justify-center flex-wrap block text-center p-10">

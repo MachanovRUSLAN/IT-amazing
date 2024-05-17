@@ -2,13 +2,13 @@
   "Data": [
     {
       "id": 1,
-      "title": "inter design",
+      "title": "interyer dizayn",
       "category": "interyer",
       "postImg": "/img/salon.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/postImg1.jpg"
+          "img": "/img/salon.jpg"
         },
         {
           "id": 2,
@@ -16,228 +16,381 @@
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img":"/img/salon.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/salon.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/salon.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/salon.jpg"
         }
       ]
     },
     {
       "id": 2,
-      "title": "landsaf design",
+      "title": "Eksteryer ve Landsaf",
       "category": "land",
       "postImg": "/img/ekster.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/ekster.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/ekster.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/ekster.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/ekster.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/ekster.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/ekster.jpg"
         }
       ]
     },
     {
       "id": 3,
-      "title": "landsaf design",
+      "title": "Interyer dizayni",
       "category": "interyer",
       "postImg": "/img/salon.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/salon.jpg"
         },
         {
           "id": 2,
           "img": "/img/salon.jpg"
         },
+     
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/salon.jpg"
+        },
+     
+        {
+          "id": 4,
+          "img": "/img/salon.jpg"
+        },
+     
+        {
+          "id": 5,
+          "img": "/img/salon.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/salon.jpg"
         }
+     
       ]
     },
     {
       "id": 4,
-      "title": "landsaf design",
+      "title": "Eksteryer ve landsaf",
       "category": "land",
       "postImg": "/img/landsaf2.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/landsaf2.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/landsaf2.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/landsaf2.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/landsaf2.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/landsaf2.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/landsaf2.jpg"
         }
       ]
     },
     {
       "id": 5,
-      "title": "landsaf design",
+      "title": "Eksteryer ve landsaf",
       "category": "land",
       "postImg": "/img/lands3.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/lands3.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/lands3.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/lands3.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/lands3.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/lands3.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/lands3.jpg"
         }
       ]
     },
     {
       "id": 6,
-      "title": "landsaf design",
+      "title": "Layihelendirme",
       "category": "layihe",
       "postImg": "/img/lyihelendir1.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/lyihelendir1.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/lyihelendir1.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/lyihelendir1.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/lyihelendir1.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/lyihelendir1.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/lyihelendir1.jpg"
         }
       ]
     },
     {
       "id": 7,
-      "title": "landsaf design",
+      "title": "Layihelendirme",
       "category": "layihe",
       "postImg": "/img/layihelendir2.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/layihelendir2.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/layihelendir2.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/layihelendir2.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/layihelendir2.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/layihelendir2.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/layihelendir2.jpg"
         }
       ]
     },
     {
       "id": 8,
-      "title": "landsaf design",
+      "title": "Layihelendirme",
       "category": "layihe",
       "postImg": "/img/layihe3.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/layihe3.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/layihe3.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/layihe3.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/layihe3.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/layihe3.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/layihe3.jpg"
         }
+
+       
       ]
     },
     {
       "id": 9,
-      "title": "landsaf design",
+      "title": "Ticaret obyektlerin dizayni",
       "category": "shop",
       "postImg": "/img/ticaretob1.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/ticaretob1.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/ticaretob1.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/ticaretob1.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/ticaretob1.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/ticaretob1.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/ticaretob1.jpg"
         }
+     
       ]
     },
     {
       "id": 10,
-      "title": "landsaf design",
+      "title": "Interyer dizayni",
       "category": "interyer",
       "postImg": "/img/inter4.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/inter4.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/inter4.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/inter4.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/inter4.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/inter4.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/inter4.jpg"
         }
+       
       ]
     },
     {
       "id": 11,
-      "title": "landsaf design",
+      "title": "Eksteryer ve landsaf",
       "category": "layihe",
       "postImg": "/img/layihe4.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/layihe4.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/layihe4.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/layihe4.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/layihe4.jpg"
+        },
+        {
+          "id": 5,
+          "img": "/img/layihe4.jpg"
+        },
+        {
+          "id": 6,
+          "img": "/img/layihe4.jpg"
         }
+     
       ]
     },
     {
       "id": 12,
-      "title": "landsaf design",
+      "title": "Eksteryer ve landsaf",
       "category": "layihe",
       "postImg": "/img/layihelendir2.jpg",
       "imgs": [
         {
           "id": 1,
-          "img": "/img/land1.jpg"
+          "img": "/img/layihelendir2.jpg"
         },
         {
           "id": 2,
-          "img": "/img/salon.jpg"
+          "img": "/img/layihelendir2.jpg"
         },
         {
           "id": 3,
-          "img": "/img/shop.jpg"
+          "img": "/img/layihelendir2.jpg"
+        },
+        {
+          "id": 4,
+          "img": "/img/layihelendir2.jpg"
+        },  {
+          "id": 5,
+          "img": "/img/layihelendir2.jpg"
+        },  {
+          "id": 6,
+          "img": "/img/layihelendir2.jpg"
         }
+      
+      
       ]
     }
   ]

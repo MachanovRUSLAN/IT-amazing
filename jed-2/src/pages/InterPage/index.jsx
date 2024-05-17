@@ -1,14 +1,14 @@
 import React from "react";
 import InterPageMain from "../../components/InterPageMain/index";
-import PortfolioSlide from "../../components/PortfolioSlide";
 import Register from "../../components/Register/Register";
+import InterSlide from "../../components/SlideInter";
 
 function InterPage() {
   return (
     <>
       <InterPageMain />
-      <PortfolioSlide />
-      <Register/>
+      <InterSlide />
+      <Register />
     </>
   );
 }
